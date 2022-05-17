@@ -1,0 +1,13 @@
+{
+    "author": "Dinesh Uprety",
+    "description": "Shopify Nepal",
+    "private": true,
+    "dependencies": {
+        "gulp-minify-css": "^1.2.4",
+        "gulp-uglify": "^3.0.2"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-concat": "^2.6.1"
+    }
+}
